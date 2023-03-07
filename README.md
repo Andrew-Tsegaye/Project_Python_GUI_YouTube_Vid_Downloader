@@ -31,4 +31,5 @@ This project is licensed under the MIT License. See the [LICENSE]() file for mor
 
 ## Contact
 Andrew Tsegaye - [andrew@jsmastery.pro](andrewtsegaye@gmail.com)
+
 Project Link: [https://github.com/Andrew-Tsegaye/Project_Python_GUI_YouTube_Vid_Downloader](https://github.com/Andrew-Tsegaye/Project_Python_GUI_YouTube_Vid_Downloader)
